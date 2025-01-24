@@ -9,6 +9,17 @@ A React application for exploring NASA's Astronomy Picture of the Day (APOD) and
 - Save favorite images to a personal collection
 - Responsive design with dark mode
 
+## Tech Stack
+
+- React
+- Tailwind CSS
+- React Router
+- Axios
+- NASA Open APIs
+- Vite
+- HeadlessUI/React
+- HeroIcons
+
 ## Setup
 
 Get your NASA API key from [NASA's API Portal](https://api.nasa.gov/)
